@@ -30,3 +30,20 @@ During the project, a few issues were encountered. One notable warning was about
 
 In conclusion, this project provides a robust pipeline for image classification using CNNs in TensorFlow. It covers essential machine learning components—data preparation, augmentation, model architecture, training, evaluation, visualization, and deployment. With additional enhancements like confusion matrices, early stopping, or transfer learning, the project can be extended into a more advanced and production-ready system.
 
+![Image](https://github.com/user-attachments/assets/d919b914-79bd-4281-a4c6-3a3022fa5478)
+
+![Image](https://github.com/user-attachments/assets/fe2f2bce-2e5d-4c88-8e57-fc6b4c89f6a2)
+
+![Image](https://github.com/user-attachments/assets/153b6e11-9ac3-46e6-b1cb-cdd863e65183)
+
+![Image](https://github.com/user-attachments/assets/adbdad25-febc-457c-909b-5c364287cc19)
+
+![Image](https://github.com/user-attachments/assets/cbe58b23-291b-4516-89cf-8e39eff92385)
+
+![Image](https://github.com/user-attachments/assets/1c4cefc5-a7c9-4f80-9c2e-88a2b66892e6)
+
+![Image](https://github.com/user-attachments/assets/0352b4e8-32b4-4d26-ba19-de0c4b6b7818)
+
+![Image](https://github.com/user-attachments/assets/477fe707-b899-4c8f-af55-aed20de325ed)
+
+![Image](https://github.com/user-attachments/assets/3e71a7aa-750e-4617-81e3-e696120a0adc)
